@@ -1,0 +1,22 @@
+{
+  "name": "gulp-build-tools-example",
+  "version": "1.0.0",
+  "description": "An example usage of the gulp-build-tools module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Follington",
+  "license": "ISC",
+  "dependencies": {
+    "babelify": "^6.2.0",
+    "gulp": "^3.9.0",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1",
+    "gulp-build-tools": "latest"
+  },
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "gulp-sourcemaps": "^1.5.2"
+  }
+}
